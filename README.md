@@ -19,21 +19,6 @@ El dashboard permite a los stakeholders identificar qué regiones, países y cat
 
 El dataset proviene de un archivo Excel (`Andes_Retail_Group_2024_2025.xlsx`) conectado directamente en Tableau. Contiene las siguientes columnas:
 
-| Columna | Tipo de dato | Descripción |
-|---|---|---|
-| `ID_Pedido` | Entero | Identificador único del pedido |
-| `Fecha_Pedido` | Fecha | Fecha en que se realizó el pedido |
-| `Estación` | Texto | Estación del año asociada a la fecha del pedido |
-| `ID_Cliente` | Texto | Identificador único del cliente |
-| `Segmento_Cliente` | Texto | Segmento al que pertenece el cliente |
-| `Región` | Texto | Región geográfica de la venta |
-| `País` | Texto | País de la venta |
-| `Categoría_Producto` | Texto | Categoría del producto vendido |
-| `Unidades_Vendidas` | Entero | Cantidad de unidades vendidas |
-| `Precio_Unitario` | Entero | Precio por unidad |
-| `Ingresos` | Entero | Ingreso total generado por el pedido |
-| `Costo` | Decimal | Costo total asociado al pedido |
-
 **Preparación de datos realizada:**
 - Corrección de tipos de datos en columnas numéricas.
 - Formateo de `Fecha_Pedido` al formato de español (Latinoamérica).
@@ -118,15 +103,6 @@ Proyecto **revisado y aprobado**. Puntos fuertes destacados por el evaluador:
 - **Tableau Desktop** — construcción del dashboard (`.twb`).
 - **Excel** — fuente de datos original.
 - **Jupyter Notebook** — documentación del proceso, planificación y narrativa del proyecto.
-
----
-
-## 📁 Archivos del repositorio
-
-| Archivo | Descripción |
-|---|---|
-| `Proyecto_9_Dashboard_de_Desempeno_Comercial.twb` | Workbook de Tableau con las vistas Overview y Detailed. |
-| `Proyecto_9_Dashboard_de_desempeño_comercial.ipynb` | Notebook con la documentación del proyecto: planificación, narrativa SCQA y feedback del revisor. |
 
 ---
 
