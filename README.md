@@ -2,6 +2,17 @@
 
 Proyecto de análisis de datos y visualización construido en **Tableau** y **Power BI**, que muestra el desempeño comercial de Andes Retail Group a través de dos vistas: una **Overview ejecutiva** y un **Detalle analítico**.
 
+## 🎓 Contexto académico
+
+Este proyecto fue desarrollado como parte del programa de **TripleTen**, con el objetivo de practicar:
+- Construir historias visuales claras con gráficos.
+- Conexión a datos y exploración de estructuras en herramientas de BI (Power BI y Tableau).
+- Creación de visualizaciones básicas y comprensión de su propósito.
+- Incorporación de interactividad mediante segmentadores y controles.
+- Diseño de un dashboard claro y eficaz antes de publicarlo.
+
+El caso de Andes Retail Group es un escenario simulado de negocio que sirve como contexto para aplicar estas habilidades a un problema real de desempeño comercial.
+
 ---
 
 ## 🧾 Descripción general
