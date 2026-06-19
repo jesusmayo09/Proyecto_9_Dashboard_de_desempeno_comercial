@@ -1,6 +1,6 @@
 # 📊 Dashboard de Desempeño Comercial — Andes Retail Group (2024–2025)
 
-Proyecto de análisis de datos y visualización construido en **Tableau**, que muestra el desempeño comercial de Andes Retail Group a través de dos vistas: una **Overview ejecutiva** y un **Detalle analítico**.
+Proyecto de análisis de datos y visualización construido en **Tableau** y **Power BI**, que muestra el desempeño comercial de Andes Retail Group a través de dos vistas: una **Overview ejecutiva** y un **Detalle analítico**.
 
 ---
 
